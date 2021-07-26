@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE03</string>
+    <string name="enter_text">Enter a word to add</string>
+    <string name="add_btn">Add</string>
+    <string name="average_length">Average word length:</string>
+    <string name="median_length">Median word length:</string>
+    <string name="view_btn">View</string>
+    <string name="zero_display">0</string>
+    <string name="close">Close</string>
+    <string name="delete">Remove Word</string>
+    <string name="selected_word">Selected Word:</string>
+</resources>
